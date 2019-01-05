@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/train"
+        android:icon="@drawable/train"
+        android:title="one" />
+
+    <item
+        android:id="@+id/shop"
+        android:icon="@drawable/shop"
+        android:title="two" />
+
+    <item
+        android:id="@+id/fond"
+        android:icon="@drawable/dynamic"
+        android:title="three" />
+
+    <item
+        android:id="@+id/my"
+        android:icon="@drawable/my"
+        android:title="four" />
+
+
+</menu>

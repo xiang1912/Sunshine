@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tonjies.templateproject">
+
+    <!-- 网络权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".app.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/NoActionBar">
+
+        <!-- Menu参考Activity -->
+        <activity android:name=".module.refrence.RefrenceActivity" />
+
+        <!-- 网络请求示例Activity -->
+        <activity android:name=".module.refrence.NetActivity" />
+
+        <!-- 黄油刀插件测试 -->
+        <activity android:name=".module.refrence.ButterActivity" />
+
+        <!-- 主Activity -->
+        <activity android:name=".MainActivity" />
+
+        <!-- glide加载图片示例 -->
+        <activity android:name=".module.refrence.GlideActivity" />
+
+        <!-- 项目模块测试Activity -->
+        <activity
+            android:name=".module.home.HomeActivity"
+            android:theme="@style/NoActionBar" />
+
+        <!-- 城市选择页面 -->
+        <activity android:name=".module.select.SelectActivity">
+
+        </activity>
+
+        <!-- 天气详情页面 -->
+        <activity android:name=".module.weather.WeatherActivity"></activity>
+
+        <!--控制第一次进入的页面是那一耳光-->
+        <activity android:name=".module.splash.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,2 @@
+     //数据库查看工具，查看地址chrome://inspect/#devices
+        Stetho.initializeWithDefaults(this)

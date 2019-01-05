@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#D5E0FE</color>
+    <color name="colorPrimary">#D5E0FE</color>
+    <color name="colorPrimaryDark">#D5DFFE</color>
+    <color name="normal">#999999</color>
+    <color name="press">#000000</color>
+</resources>
