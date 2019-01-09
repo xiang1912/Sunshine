@@ -55,5 +55,8 @@
 
 
 
-> 以上文件都已经上传到Github的仓库了，该项目还未完全完成，后续还会更新弹窗，关于页面，热门城市选择页面，语音搜索城市等功能
+> 以上文件都已经上传到Github的[仓库](https://github.com/13531982270/Sunshine)了，该项目还未完全完成，后续还会更新弹窗，关于页面，热门城市选择页面，语音搜索城市等功能
 
+> 文章到这里就结束了，如果你觉得文本就你有所帮助，希望能帮忙点个喜欢，这对我来说是种很好的鼓励，
+
+![理直气壮](https://upload-images.jianshu.io/upload_images/4002920-19d460133f31b1c1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
